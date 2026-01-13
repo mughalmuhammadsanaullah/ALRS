@@ -1,0 +1,9 @@
+P	Q	| Result
+F	F	| F
+F	T	| F
+T	F	| F
+T	T	| T
+
+Truth table generated successfully.
+
+
