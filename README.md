@@ -1,4 +1,4 @@
-# Automated Logic Reasoning System (ALRS)
+# Automated Logical Reasoning System (ALRS)
 
 A comprehensive C++ application for propositional logic operations,
 designed to simplify truth table generation, argument validation, and
