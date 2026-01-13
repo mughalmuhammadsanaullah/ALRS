@@ -79,7 +79,7 @@ equivalent.
 
 ## Technical Details
 
--   Infix to postfix conversion using Shunting Yard Algorithm
+-   Infix to postfix conversion using ###Shunting Yard Algorithm
 -   Stack-based postfix evaluation
 -   Exhaustive truth table enumeration
 
