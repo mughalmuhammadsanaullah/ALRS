@@ -67,15 +67,15 @@ equivalent.
 -   View previously saved results
 -   Export for homework submission or study materials
 
-## Operators
+## Operators Guide
 
-  Symbol   Meaning
-  -------- ------------
-  &        AND
-  \|       OR
-  !        NOT
-  \>       IMPLIES
-  =        EQUIVALENT
+| Symbol | Meaning |
+|-------:|---------|
+| &      | AND |
+| |      | OR |
+| !      | NOT |
+| >      | IMPLIES |
+| =      | EQUIVALENT |
 
 ## Technical Details
 
